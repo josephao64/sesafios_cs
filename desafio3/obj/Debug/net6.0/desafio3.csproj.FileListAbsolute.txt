@@ -1,0 +1,5 @@
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio3\obj\Debug\net6.0\desafio3.csproj.AssemblyReference.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio3\obj\Debug\net6.0\desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio3\obj\Debug\net6.0\desafio3.AssemblyInfoInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio3\obj\Debug\net6.0\desafio3.AssemblyInfo.cs
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio3\obj\Debug\net6.0\desafio3.csproj.CoreCompileInputs.cache

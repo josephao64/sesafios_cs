@@ -1,0 +1,15 @@
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\bin\Debug\net6.0\desafio_4.exe
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\bin\Debug\net6.0\desafio_4.deps.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\bin\Debug\net6.0\desafio_4.runtimeconfig.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\bin\Debug\net6.0\desafio_4.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\bin\Debug\net6.0\desafio_4.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\obj\Debug\net6.0\desafio_4.csproj.AssemblyReference.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\obj\Debug\net6.0\desafio_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\obj\Debug\net6.0\desafio_4.AssemblyInfoInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\obj\Debug\net6.0\desafio_4.AssemblyInfo.cs
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\obj\Debug\net6.0\desafio_4.csproj.CoreCompileInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\obj\Debug\net6.0\desafio_4.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\obj\Debug\net6.0\refint\desafio_4.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\obj\Debug\net6.0\desafio_4.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\obj\Debug\net6.0\desafio_4.genruntimeconfig.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\desafio_4\obj\Debug\net6.0\ref\desafio_4.dll
